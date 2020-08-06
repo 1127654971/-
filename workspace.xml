@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f9800e-873b-42d6-a6a1-7856f33984eb" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLKHtj7lQAVhTSpHRCng4ZldZv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/前后端分离开发/vuetest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f9800e-873b-42d6-a6a1-7856f33984eb" name="默认更改列表" comment="" />
+      <created>1595991848197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595991848197</updated>
+      <workItem from="1595991850943" duration="728000" />
+      <workItem from="1596027978736" duration="1650000" />
+      <workItem from="1596090987459" duration="670000" />
+      <workItem from="1596106681345" duration="744000" />
+      <workItem from="1596158043926" duration="6350000" />
+      <workItem from="1596248243930" duration="313000" />
+      <workItem from="1596288964859" duration="1179000" />
+      <workItem from="1596332849922" duration="14966000" />
+      <workItem from="1596375756577" duration="5794000" />
+      <workItem from="1596421365848" duration="275000" />
+      <workItem from="1596422112692" duration="42000" />
+      <workItem from="1596422381216" duration="105000" />
+      <workItem from="1596430033488" duration="4338000" />
+      <workItem from="1596453592623" duration="1369000" />
+      <workItem from="1596460785443" duration="7345000" />
+      <workItem from="1596507092017" duration="1370000" />
+      <workItem from="1596509679297" duration="3471000" />
+      <workItem from="1596528343747" duration="14174000" />
+      <workItem from="1596591279522" duration="4107000" />
+      <workItem from="1596613456247" duration="13899000" />
+      <workItem from="1596634880726" duration="5960000" />
+      <workItem from="1596673332602" duration="9215000" />
+      <workItem from="1596698300988" duration="4894000" />
+      <workItem from="1596706562395" duration="8962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596630523409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="469" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596630523409" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1596701635587">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596701635587" />
+    <state x="57" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596706572955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="57" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596706572955" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1596557978710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596557978710" />
+  </component>
+</project>
